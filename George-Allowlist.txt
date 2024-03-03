@@ -44,3 +44,6 @@
 @@||synologyupdate.com^$important
 @@||1passwordservices.com^$important
 @@||chatgpt.com^$important
+@@||statsig.com^$important
+@@||in.appcenter.ms^$important
+@@||schoolssports.com^$important
