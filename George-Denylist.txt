@@ -1,0 +1,6 @@
+||cc-api-data.adobe.io^$important
+||beaconapi.helpscout.net^$important
+||beacon-v2.helpscout.net^$important
+||cookielaw.org^$important
+||klaviyo.com^$important
+||lloydatkinson.net^$important
