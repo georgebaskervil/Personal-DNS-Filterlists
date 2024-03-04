@@ -39,11 +39,6 @@
 @@||bitstrips.com^$important
 @@||socscms.com^$important
 @@||www.schoolssports.com^$important
-@@||arkoselabs.com^$important
-@@||openai.com^$important
 @@||synologyupdate.com^$important
 @@||1passwordservices.com^$important
-@@||chatgpt.com^$important
-@@||statsig.com^$important
-@@||in.appcenter.ms^$important
 @@||schoolssports.com^$important
