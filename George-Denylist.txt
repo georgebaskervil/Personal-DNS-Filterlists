@@ -4,3 +4,4 @@
 ||cookielaw.org^$important
 ||klaviyo.com^$important
 ||lloydatkinson.net^$important
+||dns.msftncsi.com^$important
