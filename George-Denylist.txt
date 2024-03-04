@@ -5,3 +5,4 @@
 ||klaviyo.com^$important
 ||lloydatkinson.net^$important
 ||dns.msftncsi.com^$important
+||arkoselabs.com^$important
