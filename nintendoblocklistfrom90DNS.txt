@@ -1,0 +1,39 @@
+! Disclaimer: This blocklist is not updated on a regular basis.
+! It is crucial for users who require their devices to specifically avoid contacting Nintendo's servers (for privacy, security, or other reasons)
+! to verify and possibly update the blocklist according to the latest domain information. 
+! Use this list with caution, understanding that it may not comprehensively block all Nintendo-related traffic if not kept current.
+
+||nintendo.net^$important
+||nintendowifi.net^$important
+||nintendo.com^$important
+||nintendo.co.uk^$important
+||nintendo-europe.com^$important
+||nintendo.jp^$important
+||nintendo.co.jp^$important
+||nintendo.es^$important
+||nintendo.co.kr^$important
+||nintendo.tw^$important
+||nintendo.com.hk^$important
+||nintendo.com.au^$important
+||nintendo.co.nz^$important
+||nintendo.at^$important
+||nintendo.be^$important
+||nintendods.cz^$important
+||nintendo.dk^$important
+||nintendo.de^$important
+||nintendo.fi^$important
+||nintendo.fr^$important
+||nintendo.gr^$important
+||nintendo.hu^$important
+||nintendo.it^$important
+||nintendo.nl^$important
+||nintendo.no^$important
+||nintendo.pt^$important
+||nintendo.ru^$important
+||nintendo.co.za^$important
+||nintendo.se^$important
+||nintendo.ch^$important
+||nintendo.pl^$important
+||nintendoswitch.cn^$important
+||nintendoswitch.com.cn^$important
+||nintendoswitch.com^$important
