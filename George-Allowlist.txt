@@ -42,3 +42,5 @@
 @@||synologyupdate.com^$important
 @@||1passwordservices.com^$important
 @@||schoolssports.com^$important
+@@||zed.dev^$important
+@@||yoa.st^$important
