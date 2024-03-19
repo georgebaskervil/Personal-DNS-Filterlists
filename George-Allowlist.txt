@@ -44,3 +44,9 @@
 @@||schoolssports.com^$important
 @@||zed.dev^$important
 @@||yoa.st^$important
+@@||plausible.io^$important
+@@||umami.is^$important
+@@||cookieyes.com^$important
+@@||astro.build^$important
+@@||react.dev^$important
+@@||notability.com^$important
