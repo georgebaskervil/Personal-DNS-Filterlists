@@ -50,3 +50,5 @@
 @@||astro.build^$important
 @@||react.dev^$important
 @@||notability.com^$important
+@@||astockcdn.net^$important
+@@||public.adobecc.com^$important
