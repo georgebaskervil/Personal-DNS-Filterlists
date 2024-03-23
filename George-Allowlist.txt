@@ -52,3 +52,5 @@
 @@||notability.com^$important
 @@||astockcdn.net^$important
 @@||public.adobecc.com^$important
+@@||kinde.com^$important
+@@||s.youtube.com^$important
