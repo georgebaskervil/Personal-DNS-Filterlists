@@ -54,3 +54,4 @@
 @@||public.adobecc.com^$important
 @@||kinde.com^$important
 @@||s.youtube.com^$important
+@@||tumblr.com^$important
