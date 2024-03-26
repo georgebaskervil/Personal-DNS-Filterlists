@@ -4,7 +4,6 @@
 ||cookielaw.org^$important
 ||klaviyo.com^$important
 ||lloydatkinson.net^$important
-||dns.msftncsi.com^$important
 ||automizely.com^$important
 ||wistia.com^$important
 ||setapp.click^$important
