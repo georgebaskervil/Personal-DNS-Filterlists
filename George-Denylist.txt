@@ -7,3 +7,4 @@
 ||automizely.com^$important
 ||wistia.com^$important
 ||setapp.click^$important
+||dns.msftncsi.com^$important
