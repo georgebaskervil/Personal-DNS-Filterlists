@@ -27,8 +27,7 @@ I am in the process of implementing a more robust and secure reporting system. M
 
 **Secondary (Social Media):**
 
-- **Twitter/X (Encrypted DMs Preferred)**: I can also be reached quickly via my X/Twitter:
-- [Twitter/X: @georgebaskervil](https://twitter.com/georgebaskervil)
+- I can also be reached quickly on **Twitter/X [@georgebaskervil](https://twitter.com/georgebaskervil)**:
     
 Note: X/Twitter offers an encrypted DMs feature for premium subsribers, which is better than regular DMs for enhanced privacy.
 However, it's important to be aware that the platform's implementation of end-to-end encryption for DMs has been noted to have some flaws.
