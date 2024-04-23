@@ -9,3 +9,10 @@
 ||setapp.click^$important
 ||dns.msftncsi.com^$important
 ||ezoic.net^$important
+||segment.io^$important
+||api.segment.io^$important
+||sentry.io^$important
+||0298668.ingest.sentry.io^$important
+||segment.com^$important
+||cdn-settings.segment.com^$important
+||telemetry.astro.build^$important
