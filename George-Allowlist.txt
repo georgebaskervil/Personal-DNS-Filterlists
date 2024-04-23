@@ -17,7 +17,6 @@
 @@||1984hosting.com^$important
 @@||mistral.ai^$important
 @@||accelerator.net^$important
-@@||tldrsec.com^$important
 @@||mask.icloud.com^$important
 @@||wordpress.com^$important
 @@||doh.dns.apple.com^$important
@@ -33,8 +32,6 @@
 @@||doh.mullvad.net^$important
 @@||adguard-dns.com^$important
 @@||1passwordusercontent.com^$important
-@@||mozilla.cloudflare-dns.com^$important
-@@||cloudlare-dns.com^$important
 @@||narwhal.app^$important
 @@||bitstrips.com^$important
 @@||socscms.com^$important
@@ -57,3 +54,11 @@
 @@||tumblr.com^$important
 @@||nextdns.io^$important
 @@||192.168.50.237
+@@||solidwp.com^$important
+@@||glitchtip.com^$important
+@@||dns.msftncsi.com^$important
+@@||githubcopilot.com^$important
+@@||ivpn.net^$important
+@@||arc.net^$important
+@@||guard.io^$important
+@@||st.agrd.eu^$important
