@@ -62,3 +62,10 @@
 @@||arc.net^$important
 @@||guard.io^$important
 @@||st.agrd.eu^$important
+@@||wistia.com^$important
+@@||politicalcompass.org^$important
+@@||sigmaos.com^$important
+@@||airtableusercontent.com^$important
+@@||alfred.app^$important
+@@||api.smoot.apple.com^$important
+@@||xp.apple.com^$important
