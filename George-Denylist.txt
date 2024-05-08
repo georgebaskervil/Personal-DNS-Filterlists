@@ -16,3 +16,4 @@
 ||segment.com^$important
 ||cdn-settings.segment.com^$important
 ||telemetry.astro.build^$important
+||clientstream.launchdarkly.com^$important
