@@ -1,19 +1,22 @@
+! General Trackers
 ||cc-api-data.adobe.io^$important
 ||beaconapi.helpscout.net^$important
 ||beacon-v2.helpscout.net^$important
 ||cookielaw.org^$important
 ||klaviyo.com^$important
-||lloydatkinson.net^$important
 ||automizely.com^$important
 ||wistia.com^$important
 ||setapp.click^$important
-||dns.msftncsi.com^$important
 ||ezoic.net^$important
+||telemetry.astro.build^$important
+||ab.chatgpt.com^$important
+! Arc Tracking
 ||segment.io^$important
 ||api.segment.io^$important
 ||sentry.io^$important
 ||0298668.ingest.sentry.io^$important
 ||segment.com^$important
 ||cdn-settings.segment.com^$important
-||telemetry.astro.build^$important
 ||clientstream.launchdarkly.com^$important
+! No dark mode
+||lloydatkinson.net^$important
