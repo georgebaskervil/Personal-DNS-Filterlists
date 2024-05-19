@@ -2,6 +2,7 @@
 @@||flipper.net^$important
 @@||politicalcompass.org^$important
 @@||wix.com^$important
+@@||airtableusercontent.com
 ! Fixes - NextDNS false flags this as DNS rebinding
 @@||dns.msftncsi.com^$important
 ! Security tools
