@@ -1,16 +1,17 @@
-! Other
-@@||flipper.net^$important
-@@||politicalcompass.org^$important
-@@||airtableusercontent.com
-! Fixes - NextDNS false flags this as DNS rebinding
+! Fixes
 @@||dns.msftncsi.com^$important
-! Security tools
+! Security Toos
 @@||guard.io^$important
 @@||1passwordusercontent.com^$important
 @@||1passwordservices.com^$important
-! Network safety
+@@||1password.com^$important
+@@||agilebits.com^$important
+@@||trendmicro.com^$important
+@@||mwbsys.com^$important
+@@||malwarebytes.com^$important
 @@||blocking.asus.hns.tm^$important
 @@||asus.com^$important
+! Network Safety
 @@||synology.com^$important
 @@||synologyupdate.com^$important
 @@||quickconnect.to^$important
@@ -28,11 +29,9 @@
 ! Educational
 @@||savemyexams.com^$important
 @@||socscms.com^$important
-@@||www.schoolssports.com^$important
 @@||schoolssports.com^$important
 ! Social Media
 @@||narwhal.app^$important
-@@||s.youtube.com^$important
 @@||gravatar.com^$important
 ! Mac Apps
 @@||updf.com^$important
@@ -42,8 +41,9 @@
 @@||apphousekitchen.com^$important
 @@||accelerator.net^$important
 @@||alfred.app^$important
-@@||public.adobecc.com^$important
 @@||notability.com^$important
+@@||arc.net^$important
+@@||airtableusercontent.com
 ! Bad people
 @@||santander.uk^$important
 @@||santander.co.uk^$important
