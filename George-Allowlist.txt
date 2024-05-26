@@ -1,7 +1,6 @@
 ! Other
 @@||flipper.net^$important
 @@||politicalcompass.org^$important
-@@||wix.com^$important
 @@||airtableusercontent.com
 ! Fixes - NextDNS false flags this as DNS rebinding
 @@||dns.msftncsi.com^$important
@@ -14,17 +13,14 @@
 @@||asus.com^$important
 @@||synology.com^$important
 @@||synologyupdate.com^$important
+@@||quickconnect.to^$important
 @@||ivpn.net^$important
-@@||mullvad.net^$important
 @@||adguard-dns.com^$important
 @@||agrd.eu^$important
 @@||nextdns.io^$important
-@@||192.168.50.237
+@@||192.168.50.32^$important
 ! Developer
 @@||githubcopilot.com^$important
-@@||brightdata.com^$important
-@@||mistral.ai^$important
-@@||wordpress.com^$important
 @@||linear.app^$important
 @@||zed.dev^$important
 @@||astro.build^$important
@@ -37,22 +33,18 @@
 ! Social Media
 @@||narwhal.app^$important
 @@||s.youtube.com^$important
-@@||tumblr.com^$important
-@@||bitstrips.com^$important
 @@||gravatar.com^$important
 ! Mac Apps
 @@||updf.com^$important
 @@||macupdater-backend.com^$important
 @@||betterdisplay.pro^$important
-@@||airbuddy.app^$important
 @@||maketheweb.io^$important
 @@||apphousekitchen.com^$important
-@@||stclairsoft.com^$important
 @@||accelerator.net^$important
 @@||alfred.app^$important
 @@||public.adobecc.com^$important
 @@||notability.com^$important
-! Santander
+! Bad people
 @@||santander.uk^$important
 @@||santander.co.uk^$important
 ! Apple
