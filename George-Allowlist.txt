@@ -14,6 +14,7 @@
 ! Network Safety
 @@||synology.com^$important
 @@||synologyupdate.com^$important
+@@||synologydownload.com$important
 @@||quickconnect.to^$important
 @@||ivpn.net^$important
 @@||adguard-dns.com^$important
