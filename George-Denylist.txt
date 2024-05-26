@@ -5,18 +5,7 @@
 ||cookielaw.org^$important
 ||klaviyo.com^$important
 ||automizely.com^$important
-||wistia.com^$important
-||setapp.click^$important
 ||ezoic.net^$important
 ||telemetry.astro.build^$important
 ||ab.chatgpt.com^$important
-! Arc Tracking
-||segment.io^$important
-||api.segment.io^$important
-||sentry.io^$important
-||0298668.ingest.sentry.io^$important
-||segment.com^$important
-||cdn-settings.segment.com^$important
-||clientstream.launchdarkly.com^$important
-! No dark mode
-||lloydatkinson.net^$important
+||launchdarkly.com^$important
