@@ -1,11 +1,1 @@
-! General Trackers
-||cc-api-data.adobe.io^$important
-||beaconapi.helpscout.net^$important
-||beacon-v2.helpscout.net^$important
-||cookielaw.org^$important
-||klaviyo.com^$important
-||automizely.com^$important
-||ezoic.net^$important
-||telemetry.astro.build^$important
-||ab.chatgpt.com^$important
 ||launchdarkly.com^$important
