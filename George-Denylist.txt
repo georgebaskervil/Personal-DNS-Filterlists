@@ -1,1 +1,27 @@
+! Extra Arc Trackers
 ||launchdarkly.com^$important
+! Marketing Automation Tools
+||klaviyo.com^$important
+||automizely.com^$important
+! Ezoic Ads
+||ezoic.net^$important
+! Astro Telemetry
+||telemetry.astro.build^$important
+! OpenAI A/B tester
+||ab.chatgpt.com^$important
+! Google Fonts
+||fonts.gstatic.com^$important
+! Docker
+||sessions-bugsnag.docker.com^$important
+! Hubspot
+||hscoscdn40.net^$important
+||hubspot.net^$important
+||hubspot.com^$important
+||hs-sites.com^$important
+||hsforms.com^$important
+||hsleadflows.net^$important
+||hsadspixel.net^$important
+||hs-scripts.com^$important
+||hs-banner.com^$important
+||hs-analytics.net^$important
+||hsappstatic.net^$important
