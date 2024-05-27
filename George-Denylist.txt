@@ -9,8 +9,6 @@
 ||telemetry.astro.build^$important
 ! OpenAI A/B tester
 ||ab.chatgpt.com^$important
-! Google Fonts
-||fonts.gstatic.com^$important
 ! Docker
 ||sessions-bugsnag.docker.com^$important
 ! Hubspot
