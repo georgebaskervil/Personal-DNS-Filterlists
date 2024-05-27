@@ -17,6 +17,7 @@
 @@||synologydownload.com$important
 @@||quickconnect.to^$important
 @@||ivpn.net^$important
+@@||mullvad.net^$important
 @@||adguard-dns.com^$important
 @@||agrd.eu^$important
 @@||nextdns.io^$important
@@ -27,6 +28,8 @@
 @@||zed.dev^$important
 @@||astro.build^$important
 @@||react.dev^$important
+@@||wordpress.com^$important
+@@||wix.com^$important
 ! Educational
 @@||savemyexams.com^$important
 @@||socscms.com^$important
@@ -34,6 +37,7 @@
 ! Social Media
 @@||narwhal.app^$important
 @@||gravatar.com^$important
+@@||tumblr.com^$important
 ! Mac Apps
 @@||updf.com^$important
 @@||macupdater-backend.com^$important
