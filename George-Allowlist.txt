@@ -1,5 +1,6 @@
-! Security
-@@||ocsp.pki.goog^$important
+! Google Trust Services
+@@||pki.goog^$important
+@@||crt.sh^$important
 ! Fixes
 @@||dns.msftncsi.com^$important
 ! Security Tools
