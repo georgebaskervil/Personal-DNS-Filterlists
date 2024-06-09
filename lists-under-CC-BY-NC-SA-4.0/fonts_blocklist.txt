@@ -1,4 +1,8 @@
 ! Note: Manually created from the other lists
+||fonts.googleapis.com
+||fonts.gstatic.com
+||fonts.gle
+||themes.googleusercontent.com
 ||fonts.com
 ||fonts.net
 ||fonts.googleapis.com
