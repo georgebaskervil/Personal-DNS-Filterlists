@@ -83,3 +83,4 @@
 @@||sb-ssl.google.com^$important
 @@||time.google.com^$important
 @@||www.portainer.io^$important
+@@||contile.services.mozilla.com^$important
