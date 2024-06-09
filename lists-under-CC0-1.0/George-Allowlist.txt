@@ -64,3 +64,22 @@
 @@||smoot.apple.com^$important
 @@||xp.apple.com^$important
 @@||mask.icloud.com^$important
+! Can't be bothered to filter now
+@@||ocsp.int-r1.certainly.com^$important
+@@||steamcloud-eu-ams.storage.googleapis.com^$important
+@@||googlevideo.com
+@@||steamcloud-london.storage.googleapis.com^$important
+@@||pixelfed.social^$important
+@@||sw.kovidgoyal.net^$important
+@@||edge.apple^$important
+@@||nordsec.com^$important
+@@||ask4.mm.fcix.net^$important
+@@||bresink.biz^$important
+@@||storage.signal.org^$important
+@@||googlehosted.com^$important
+@@||safebrowsing.googleapis.com^$important
+@@||db.io^$important
+@@||gtly.ink^$important
+@@||sb-ssl.google.com^$important
+@@||time.google.com^$important
+@@||www.portainer.io^$important
