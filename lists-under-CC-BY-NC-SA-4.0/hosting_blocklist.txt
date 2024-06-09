@@ -1,0 +1,17 @@
+||github.io
+||appspot.com
+||cloudfront.net
+||herokuapp.com
+||runmewivel.com
+||bemobile.ua
+||mailerlite.com
+||fileserve.xyz
+||jimcdn.com
+||jimdo.com
+||jimstatic.com
+||amazonaws.com
+||amazonwebservices.com
+||awsstatic.com
+||bbci.co.uk
+||continum.net
+||fastpic.ru

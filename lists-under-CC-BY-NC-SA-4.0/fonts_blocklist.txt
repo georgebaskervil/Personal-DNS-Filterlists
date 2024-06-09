@@ -1,0 +1,11 @@
+! Note: Manually created from the other lists
+||fonts.com
+||fonts.net
+||fonts.googleapis.com
+||fontawesome.com
+||typography.com
+||cloudfonts.net
+||typekit.com
+||typekit.net
+||myfonts.net
+||myfontcdn.com
