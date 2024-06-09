@@ -23,3 +23,10 @@
 ||hs-banner.com^$important
 ||hs-analytics.net^$important
 ||hsappstatic.net^$important
+! Also can't be bothered to filter now
+||found.ee^$important
+||conversionbear.com^$important
+||geolocation-recommendations.shopifyapps.com^$important
+||convertkit.com^$important
+||beehiiv.com^$important
+||freshworks.com^$important
