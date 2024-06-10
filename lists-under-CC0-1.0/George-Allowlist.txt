@@ -1,6 +1,3 @@
-! Google Trust Services
-@@||pki.goog^$important
-@@||crt.sh^$important
 ! Fixes
 @@||dns.msftncsi.com^$important
 ! Security Tools
@@ -66,19 +63,13 @@
 @@||mask.icloud.com^$important
 ! Can't be bothered to filter now
 @@||ocsp.int-r1.certainly.com^$important
-@@||googlevideo.com
 @@||pixelfed.social^$important
 @@||kovidgoyal.net^$important
 @@||edge.apple^$important
 @@||nordsec.com^$important
 @@||ask4.mm.fcix.net^$important
 @@||bresink.biz^$important
-@@||googlehosted.com^$important
 @@||db.io^$important
 @@||gtly.ink^$important
-@@||sb-ssl.google.com^$important
-@@||time.google.com^$important
 @@||www.portainer.io^$important
 @@||contile.services.mozilla.com^$important
-@@||gcs-eu-00002.content-storage-upload.googleapis.com^$important
-@@||googleapis.com^$important
