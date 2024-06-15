@@ -10,6 +10,8 @@
 @@||malwarebytes.com^$important
 @@||blocking.asus.hns.tm^$important
 @@||asus.com^$important
+@@||hns.tm^$important
+@@||nordsec.com^$important
 ! Network Safety
 @@||synology.com^$important
 @@||synologyupdate.com^$important
@@ -21,6 +23,8 @@
 @@||agrd.eu^$important
 @@||nextdns.io^$important
 @@||192.168.50.32^$important
+! OSCP servers
+@@||ocsp.int-r1.certainly.com^$important
 ! Developer
 @@||githubcopilot.com^$important
 @@||linear.app^$important
@@ -29,6 +33,10 @@
 @@||react.dev^$important
 @@||wordpress.com^$important
 @@||wix.com^$important
+@@||deno.com^$important
+@@||codexcode.store^$important
+@@||weebly.com^$important
+@@||angular.dev^$important
 ! Educational
 @@||savemyexams.com^$important
 @@||socscms.com^$important
@@ -48,6 +56,8 @@
 @@||notability.com^$important
 @@||airtableusercontent.com^$important
 @@||charliemonroe.net^$important
+@@||ask4.mm.fcix.net^$important
+@@||bresink.biz^$important
 ! Bad people
 @@||santander.uk^$important
 @@||santander.co.uk^$important
@@ -61,15 +71,15 @@
 @@||smoot.apple.com^$important
 @@||xp.apple.com^$important
 @@||mask.icloud.com^$important
-! Can't be bothered to filter now
-@@||ocsp.int-r1.certainly.com^$important
-@@||pixelfed.social^$important
-@@||kovidgoyal.net^$important
 @@||edge.apple^$important
-@@||nordsec.com^$important
-@@||ask4.mm.fcix.net^$important
-@@||bresink.biz^$important
+! Fastmail
+@@||fastmail.innocraft.cloud^$important
+! FOSS Tools
+@@||ollama.com^$important
+@@||www.portainer.io^$important
+@@||pixelfed.social^$important
+! E-commerce stores
 @@||db.io^$important
 @@||gtly.ink^$important
-@@||www.portainer.io^$important
-@@||contile.services.mozilla.com^$important
+! Can't be bothered to filter now
+! Nothing here at the moment
