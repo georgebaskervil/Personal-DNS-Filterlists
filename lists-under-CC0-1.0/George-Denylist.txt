@@ -3,6 +3,7 @@
 ! Marketing Automation Tools
 ||klaviyo.com^$important
 ||automizely.com^$important
+||freshworks.com^$important
 ! Ezoic Ads
 ||ezoic.net^$important
 ! Astro Telemetry
@@ -23,10 +24,15 @@
 ||hs-banner.com^$important
 ||hs-analytics.net^$important
 ||hsappstatic.net^$important
-! Also can't be bothered to filter now
+! E-commerce stores
 ||found.ee^$important
 ||conversionbear.com^$important
 ||geolocation-recommendations.shopifyapps.com^$important
 ||convertkit.com^$important
+! Intercom
+||intercomassets.com^$important
+! E-mail newsletters
 ||beehiiv.com^$important
-||freshworks.com^$important
+! Can't be bothered to filter now
+! Nothing here at the moment
+
