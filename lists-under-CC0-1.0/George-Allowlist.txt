@@ -1,5 +1,3 @@
-! Fixes
-@@||dns.msftncsi.com^$important
 ! Security Tools
 @@||1passwordusercontent.com^$important
 @@||1passwordservices.com^$important
@@ -16,13 +14,7 @@
 @@||synology.com^$important
 @@||synologyupdate.com^$important
 @@||synologydownload.com$important
-@@||quickconnect.to^$important
-@@||ivpn.net^$important
 @@||mullvad.net^$important
-@@||adguard-dns.com^$important
-@@||agrd.eu^$important
-@@||nextdns.io^$important
-@@||192.168.50.32^$important
 ! OSCP servers
 @@||ocsp.int-r1.certainly.com^$important
 ! Developer
@@ -31,19 +23,12 @@
 @@||zed.dev^$important
 @@||astro.build^$important
 @@||react.dev^$important
-@@||wordpress.com^$important
 @@||wix.com^$important
 @@||deno.com^$important
-@@||codexcode.store^$important
 @@||weebly.com^$important
 @@||angular.dev^$important
-! Educational
-@@||savemyexams.com^$important
-@@||socscms.com^$important
-@@||schoolssports.com^$important
 ! Social Media
 @@||narwhal.app^$important
-@@||gravatar.com^$important
 @@||tumblr.com^$important
 ! Mac Apps
 @@||updf.com^$important
@@ -81,5 +66,3 @@
 ! E-commerce stores
 @@||db.io^$important
 @@||gtly.ink^$important
-! Can't be bothered to filter now
-! Nothing here at the moment
